@@ -8,6 +8,8 @@
 * Set cssFile to your css file...                                      *
 * Run node viewportPolyfill.js                                         *
 * If you get an error, create folder "compiled" in your current folder.*
+* Add compiled/viewportPolyfill.js in your html script tag             *
+* run viewPoly()                                                       *
 ************************************************************************
 */
 var cssFile = 'test.css';
